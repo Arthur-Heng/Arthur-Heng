@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arthur-Heng
-- 👀 I’m interested in playing the piano
+- 👀 I’m interested in playing the piano and participating in coding competitions
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
