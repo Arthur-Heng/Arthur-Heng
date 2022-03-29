@@ -2,7 +2,7 @@
 - 👀 I’m interested in playing the piano and participating in coding competitions
 - 🌱 I’m currently learning deep learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me : e-mail: wh2213210554@gmail.com
 
 <!---
 Arthur-Heng/Arthur-Heng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
