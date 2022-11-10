@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Arthur-Heng
 - 👀 I’m interested in playing the piano and participating in coding competitions
-- 🌱 I’m currently learning deep learning
+- 🌱 I’m currently conducting research in machine learning
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : e-mail: wh2213210554@gmail.com
+- 📫 How to reach me : e-mail: wh2213210554@gmail.com || wh2213210554@stu.xjtu.edu.cn
 
 <!---
 Arthur-Heng/Arthur-Heng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
