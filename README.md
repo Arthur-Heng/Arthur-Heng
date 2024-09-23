@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Arthur-Heng
-- 👀 I’m interested in playing the piano and participating in programming competitions
+- 👋 Hi, I’m Heng Wang.
 - 🌱 I’m currently conducting research in NLP & ML
-- 💞️ I'm looking for Ph.D. positions starting in 25Fall!
+- 💞️ I'm looking for Ph.D. positions starting in 25Fall!!!
 - 📫 How to reach me : e-mail: hengwang0301@gmail.com || heng@berkeley.edu || wh2213210554@stu.xjtu.edu.cn
 
 <!---
